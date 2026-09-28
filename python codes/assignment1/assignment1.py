@@ -1,5 +1,5 @@
 #creating a list
-students_list=["Aditi","Shaurya","Rishi","Sneha","Riya"]
+students_list=["Atharv","Soham","Rishi","vignesh","om"]
 print("students list: ",students_list)
 students_list.append("Rohan")
 print(students_list)
